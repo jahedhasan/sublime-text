@@ -1,6 +1,4 @@
-     
 #Sublime Important Packages Install for Easy Coding   
-
        
 ###1.Emmet   
 ###2.Sidebar Enhancement   
